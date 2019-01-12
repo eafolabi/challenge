@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: devopschallenge
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: fabiano.tessarolo
+Implementation-Vendor-Id: com.wirecard
+Spring-Boot-Version: 2.0.1.RELEASE
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.wirecard.devopschallenge.DevopschallengeApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/devopschallenge
+
